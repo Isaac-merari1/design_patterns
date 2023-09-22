@@ -26,4 +26,7 @@ package org.example.structural.bridge;
  * for the methods defined in the implementor.
  */
 public class Main {
+    public static void main(String[] args) {
+
+    }
 }
